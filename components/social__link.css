@@ -1,0 +1,20 @@
+.social__link {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
+.social__link > ul {
+  border-radius: 5px;
+  width: 50px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.social__link > ul > li {
+  cursor: pointer;
+  opacity: 0.7;
+}

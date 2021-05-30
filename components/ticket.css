@@ -1,0 +1,35 @@
+.ticket__box {
+  position: relative;
+  width: 550px;
+  height: 250px;
+  transform-style: preserve-3d;
+}
+
+.ticket__card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  transform-style: preserve-3d;
+  backface-visibility: hidden;
+  transition: 1s ease-in-out;
+  transform: perspective(600px) rotateX(0deg);
+}
+
+.ticket__card--front {
+  background-color: pink;
+}
+
+.ticket__box:hover .ticket__card--front {
+  transform: perspective(600px) rotateX(180deg);
+}
+
+.ticket__card--back {
+  background-color: cornflowerblue;
+  transform: perspective(600px) rotateX(180deg);
+}
+
+.ticket__box:hover .ticket__card--back {
+  transform: perspective(600px) rotateX(360deg);
+}
