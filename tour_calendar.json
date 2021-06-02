@@ -1,0 +1,364 @@
+[
+  {
+    "country": "korea",
+    "city": "seoul",
+    "place": "olympic stadium",
+    "date": {
+      "year": 2019,
+      "month": 8,
+      "day": 25
+    }
+  },
+
+  {
+    "country": "korea",
+    "city": "seoul",
+    "place": "olympic stadium",
+    "date": {
+      "year": 2019,
+      "month": 8,
+      "day": 26
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "los angeles",
+    "place": "staples center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 5
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "los angeles",
+    "place": "staples center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 6
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "los angeles",
+    "place": "staples center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 8
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "los angeles",
+    "place": "staples center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 9
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "oakland",
+    "place": "oracle arena",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 12
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "fort worth",
+    "place": "convention center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 15
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "fort worth",
+    "place": "convention center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 16
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "hamilton",
+    "place": "first ontario center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 20
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "hamilton",
+    "place": "first ontario center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 22
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "hamilton",
+    "place": "first ontario center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 23
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "newark",
+    "place": "prudential center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 28
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "newark",
+    "place": "prudential center",
+    "date": {
+      "year": 2019,
+      "month": 9,
+      "day": 29
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "chicago",
+    "place": "united center",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 2
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "chicago",
+    "place": "united center",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 3
+    }
+  },
+
+  {
+    "country": "united states",
+    "city": "new york",
+    "place": "citi field",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 6
+    }
+  },
+
+  {
+    "country": "united kingdom",
+    "city": "london",
+    "place": "the o2 arena",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 9
+    }
+  },
+
+  {
+    "country": "united kingdom",
+    "city": "london",
+    "place": "the o2 arena",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 10
+    }
+  },
+
+  {
+    "country": "netherlands",
+    "city": "amsterdan",
+    "place": "ziggo dome",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 13
+    }
+  },
+
+  {
+    "country": "germany",
+    "city": "berlin",
+    "place": "mercedes-bens arena",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 16
+    }
+  },
+
+  {
+    "country": "germany",
+    "city": "berlin",
+    "place": "mercedes-bens arena",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 17
+    }
+  },
+
+  {
+    "country": "france",
+    "city": "paris",
+    "place": "accorhotels arena",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 19
+    }
+  },
+
+  {
+    "country": "germany",
+    "city": "berlin",
+    "place": "mercedes-bens arena",
+    "date": {
+      "year": 2019,
+      "month": 10,
+      "day": 20
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "tokyo",
+    "place": "tokyo dome",
+    "date": {
+      "year": 2019,
+      "month": 11,
+      "day": 13
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "tokyo",
+    "place": "tokyo dome",
+    "date": {
+      "year": 2019,
+      "month": 11,
+      "day": 14
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "osaka",
+    "place": "kyocera dome",
+    "date": {
+      "year": 2019,
+      "month": 11,
+      "day": 21
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "osaka",
+    "place": "kyocera dome",
+    "date": {
+      "year": 2019,
+      "month": 11,
+      "day": 23
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "osaka",
+    "place": "kyocera dome",
+    "date": {
+      "year": 2019,
+      "month": 11,
+      "day": 24
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "nagoya",
+    "place": "nagoya dome",
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 12
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "nagoya",
+    "place": "nagoya dome",
+    "date": {
+      "year": 2020,
+      "month": 1,
+      "day": 13
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "fukuoka",
+    "place": "fukuoka dome",
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 16
+    }
+  },
+
+  {
+    "country": "japan",
+    "city": "fukuoka",
+    "place": "fukuoka dome",
+    "date": {
+      "year": 2020,
+      "month": 2,
+      "day": 17
+    }
+  }
+]
